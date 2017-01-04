@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="orientation_names">
+    <item>@string/south</item>
+    <item>@string/south_west</item>
+    <item>@string/west</item>
+    <item>@string/north_west</item>
+    <item>@string/north</item>
+    <item>@string/north_east</item>
+    <item>@string/east</item>
+    <item>@string/south_east</item>
+  </string-array>
+</resources>
